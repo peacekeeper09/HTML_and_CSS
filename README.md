@@ -38,7 +38,7 @@ Example:
 - Paragraph: `<p>`
 - Links: `<a href="URL">Link text</a>`
 - Images: `<img src="imageURL" alt="Image description">`
-- Lists: ` <ul>` for unordered lists, <ol> for ordered lists, and `<li>` for list items
+- Lists: ` <ul>` for unordered lists, `<ol>` for ordered lists, and `<li>` for list items
 - Tables: `<table>`, `<tr>` (table row), `<th>` (table header), and `<td>` (table data)
 
 # 5. HTML5 Features
