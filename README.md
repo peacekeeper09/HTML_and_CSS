@@ -47,9 +47,9 @@ HTML5 introduced several new semantic elements:
 - `<header>`: Represents the header of a section or the whole page.
 - `<nav>`: Represents a navigation section containing links.
 - `<main>`: Represents the main content of the web page.
-- <article>: Represents a self-contained piece of content that can be reused, such as a blog post.
-- <section>: Represents a generic section of content.
-- <footer>: Represents the footer of a section or the whole page.
+- `<article>`: Represents a self-contained piece of content that can be reused, such as a blog post.
+- `<section>`: Represents a generic section of content.
+- `<footer>`: Represents the footer of a section or the whole page.
 
 # 6. Tips for New Learners
 - Use proper indenting to make your HTML code readable.
