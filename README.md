@@ -11,11 +11,11 @@ For example, the paragraph tag:
 
 # 3. Basic HTML File Structure
 A basic HTML file contains the following elements:
-- <!DOCTYPE html>: Declares the document type and version of HTML.
-- <html>: The root element enclosing the entire HTML document.
-- <head>: Contains meta information about the document, such as title, stylesheet, and scripts.
-- <title>: Defines the title of the web page, which appears in the browser's title bar or tab.
-- <body>: Contains the content of the web page, such as text, images, and links.
+- `<!DOCTYPE html>`: Declares the document type and version of HTML.
+- `<html>`: The root element enclosing the entire HTML document.
+- `<head>`: Contains meta information about the document, such as title, stylesheet, and scripts.
+- `<title>`: Defines the title of the web page, which appears in the browser's title bar or tab.
+- `<body>`: Contains the content of the web page, such as text, images, and links.
 
 Example:
 
@@ -34,12 +34,12 @@ Example:
 ```
 
 # 4. Common HTML Tags
-- Headings: <h1> to <h6> (h1 being the largest and h6 the smallest)
-- Paragraph: <p>
-- Links: <a href="URL">Link text</a>
-- Images: <img src="imageURL" alt="Image description">
-- Lists:  <ul> for unordered lists, <ol> for ordered lists, and <li> for list items
-- Tables: <table>, <tr> (table row), <th> (table header), and <td> (table data)
+- Headings: `<h1>` to `<h6>` (h1 being the largest and h6 the smallest)
+- Paragraph: `<p>`
+- Links: `<a href="URL">Link text</a>`
+- Images: `<img src="imageURL" alt="Image description">`
+- Lists: ` <ul>` for unordered lists, <ol> for ordered lists, and `<li>` for list items
+- Tables: `<table>`, `<tr>` (table row), `<th>` (table header), and `<td>` (table data)
 
 # 5. HTML5 Features
 HTML5 introduced several new semantic elements:
