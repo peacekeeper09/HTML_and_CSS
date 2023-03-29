@@ -5,7 +5,9 @@ HTML (Hypertext Markup Language) is the standard markup language used for struct
 # 2. HTML Tags
 An HTML tag is an element that defines the structure and presentation of content. Tags are enclosed in angle brackets (< and >). Most tags have an opening and closing pair, with the content placed between them.
 
-For example, the paragraph tag: <p>This is a paragraph.</p>
+For example, the paragraph tag: 
+
+`<p>This is a paragraph.</p>`
 
 # 3. Basic HTML File Structure
 A basic HTML file contains the following elements:
