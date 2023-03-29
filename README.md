@@ -50,7 +50,7 @@ Example:
 
 8. `<body>`: Wraps the main content of the webpage.
 
-9.` <h1>` to `<h6>`: Define headings with varying levels of importance (h1 is the highest).
+9. `<h1>` to `<h6>`: Define headings with varying levels of importance (h1 is the highest).
 
 10. `<p>`: Defines a paragraph.
 
@@ -72,7 +72,7 @@ Example:
 
 19. `<form>`: Encapsulates input fields and controls for user input and submission.
 
-20.` <input>`: Represents various input types, like text, checkboxes, radio buttons, etc.
+20. `<input>`: Represents various input types, like text, checkboxes, radio buttons, etc.
 
 21. `<button>`: Represents a clickable button, often used within forms or for interactive functionality.
 
