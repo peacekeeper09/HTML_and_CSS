@@ -1,15 +1,15 @@
 
-# 1. Introduction
+## 1. HTML
 HTML (Hypertext Markup Language) is the standard markup language used for structuring content on the web. It consists of various elements known as tags, which are used to define the structure and presentation of a web page.
 
-# 2. HTML Tags
+## 2. HTML Tags
 An HTML tag is an element that defines the structure and presentation of content. Tags are enclosed in angle brackets (< and >). Most tags have an opening and closing pair, with the content placed between them.
 
 For example, the paragraph tag: 
 
 `<p>This is a paragraph.</p>`
 
-# 3. Basic HTML File Structure
+## 3. Basic HTML File Structure
 A basic HTML file contains the following elements:
 - `<!DOCTYPE html>`: Declares the document type and version of HTML.
 - `<html>`: The root element enclosing the entire HTML document.
@@ -33,7 +33,7 @@ Example:
 </html>
 ```
 
-# 4. Common HTML Tags
+## 4. Common HTML Tags
 1. `<!DOCTYPE html>`: Defines the document type and version of HTML.
 
 2. `<html>`: The root element that contains all other HTML elements.
@@ -84,7 +84,7 @@ Example:
 
 25. `<br>`: Inserts a line
 
-# 5. HTML5 Features
+## 5. HTML5 Features
 HTML5 introduced several new semantic elements:
 
 - `<header>`: Represents the header of a section or the whole page.
@@ -94,7 +94,10 @@ HTML5 introduced several new semantic elements:
 - `<section>`: Represents a generic section of content.
 - `<footer>`: Represents the footer of a section or the whole page.
 
-# 6. Tips for New Learners
+## 6. Tips for New Learners
 - Use proper indenting to make your HTML code readable.
 - Always close tags properly to ensure correct rendering of the web page.
 - Use comments to provide documentation and context for other developers. To add a comment in HTML, use <!-- Comment text -->.
+
+
+# CSS
