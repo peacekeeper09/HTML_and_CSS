@@ -1,5 +1,5 @@
 
-## 1. HTML
+# 1. HTML
 HTML (Hypertext Markup Language) is the standard markup language used for structuring content on the web. It consists of various elements known as tags, which are used to define the structure and presentation of a web page.
 
 ## 2. HTML Tags
