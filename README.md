@@ -170,7 +170,7 @@ CSS pseudo-classes are used to target elements based on their state or position 
 - :nth-of-type(n): Targets the nth element of a certain type of a parent element.
 
 
-##CSS Pseudo-elements:
+## CSS Pseudo-elements:
 CSS pseudo-elements are used to style specific parts of an element. Here are some of the most commonly used pseudo-elements:
 
 - ::before: Adds content before an element.
